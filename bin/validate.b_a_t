@@ -1,0 +1,2 @@
+
+java -cp ../resources;../lib/SuDoKuValidation-1.0-SNAPSHOT.jar;../lib/opencsv-3.8.jar;../lib/logback-classic-1.1.5.jar;../lib/logback-core-1.1.5.jar;../lib/lombok-1.16.6.jar;../lib/slf4j-api-1.7.25.jar com.ubs.sudoku.validation.SuDoKuValidation %1
